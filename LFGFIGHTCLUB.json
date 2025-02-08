@@ -1,0 +1,23 @@
+
+{
+  "asset": "LFGFIGHTCLUB",
+  "name": "LFGFIGHTCLUB",
+  "pgpsig": "kfairbro",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/kfairbro/images/main/nft(thumb).png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/kfairbro/images/main/nft.jpg"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/kfairbro2"
+}
+  ]
+}
