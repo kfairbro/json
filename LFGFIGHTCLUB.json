@@ -1,11 +1,23 @@
+
 {
-  "success": true,
   "asset": "LFGFIGHTCLUB",
-  "image": "https://raw.githubusercontent.com/kfairbro/images/main/nft(thumb).png",
-  "image_title": "LFG FIGHT CLUB",
-  "description": "2 Legends stand H2H, Winner Takes All!"
-  "pgpsig": "created by kbro",
   "name": "LFGFIGHTCLUB",
-  "website_social_twitter": "https://x.com/LFGCRYPTOART",
-  "image_large": "https://raw.githubusercontent.com/kfairbro/images/main/nft.jpg",
+  "pgpsig": "kfairbro",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/kfairbro/images/main/nft(thumb).png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/kfairbro/images/main/nft.jpg"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/kfairbro2"
+}
+  ]
 }
